@@ -15,7 +15,7 @@ import '../dashboard1/css/layout.css'
 import '../dashboard1/css/cards.css'
 import '../dashboard1/css/apexcharts.css'
 import Chart from "react-apexcharts";
-import {XYPlot,AreaSeries} from 'react-vis';
+
 
 
 
