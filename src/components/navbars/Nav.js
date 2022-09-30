@@ -26,7 +26,6 @@ const Nav = () => {
       
         <div className="navbar navbar-admin lg:justify-between">
           <div className="pr-0 w-screen justify-between lg:w-auto">
-            
             {/* igi logo */}
             <a href="/dashboard">
              <img src={logo} alt="..."className="w-32" />
