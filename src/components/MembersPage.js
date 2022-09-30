@@ -58,7 +58,7 @@ const MembersPage = () => {
             <h1 data-aos="fade-right" data-aos-duration="2500" className="lg:ml-20 lg:mt-8 text-[#9ca3af] orbitron underline decoration-[#34b2fd] underline-offset-4">Our Members</h1>
           </div>
    
-          <div className='grid md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 justify-center lg:space-evenly' >
+          <div className='grid md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 justify-items-center lg:space-evenly' >
             {members2 && members2.map((m,i) => (
               <div className="card glass mb-8 hover-item w-fit m-9 md:m-3 mt-0 w-96 md:w-80 lg:w-80 lg:m-20 lg:mt-0 2xl:w-80" key={i}>
                 <figure className="frame"><img src={m.img} alt="..."/></figure>
