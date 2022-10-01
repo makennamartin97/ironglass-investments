@@ -59,8 +59,8 @@ const Nav = () => {
                 </div>
               </label>
               <ul tabIndex={0} className="mt-3 p-2 shadow menu menu-compact dropdown-content bg-[#9ca3af] w-52">
-                <li><a className="orbitron" href="/profile">Settings</a></li>
-                <li><a className="orbitron" href="/">Logout</a></li>
+                <li><a className="orbitron active:bg-black" href="/profile">Settings</a></li>
+                <li><a className="orbitron active:bg-black" href="/">Logout</a></li>
               </ul>
             </div>
           </ul>
