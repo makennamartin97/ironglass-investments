@@ -1,7 +1,7 @@
 import React,{useState, useEffect,useContext} from 'react';
 import logo from '../../images/navlogo.png'
 import LoginContext from '../../contexts/LoginContext';
-
+import {Link} from "react-router-dom";
 
 
 function NavbarAuth(){
@@ -35,9 +35,9 @@ function NavbarAuth(){
 
       <div className={navbg ? "navbar bg-base-100 navbar-auth active lg:justify-between" : "navbar bg-base-100 navbar-auth lg:justify-between" }>
         <div className="p-7 w-screen justify-between lg:w-auto">
-          <a href="/">
+          <Link to="/">
             <img src={logo} alt="..."className="w-48" />
-          </a>
+          </Link>
 
           <div className="dropdown dropdown-left btn p-0 lg:invisible ml-6 lg:ml-0 bg-black text-[#34b2fd]">
             <label tabIndex={0} className="btn btn-ghost btn-circle">
