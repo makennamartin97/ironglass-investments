@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ironglass-investments/static/css/main.674e4df0.css",
-    "main.js": "/ironglass-investments/static/js/main.cd0ec03b.js",
+    "main.css": "/ironglass-investments/static/css/main.739fbde8.css",
+    "main.js": "/ironglass-investments/static/js/main.6986bf59.js",
     "static/js/787.2a33bd7e.chunk.js": "/ironglass-investments/static/js/787.2a33bd7e.chunk.js",
     "static/media/navlogo.png": "/ironglass-investments/static/media/navlogo.25ca2aa2f3a9961dc4ee.png",
     "static/media/navlogo2.png": "/ironglass-investments/static/media/navlogo2.aa6a69f529b8e2e7293c.png",
@@ -10,12 +10,12 @@
     "static/media/Robodron.otf": "/ironglass-investments/static/media/Robodron.2f445dd0dccfb699ebfb.otf",
     "static/media/orbitron-latin-400-normal.woff2": "/ironglass-investments/static/media/orbitron-latin-400-normal.66d6f5814af1d6cb84b3.woff2",
     "index.html": "/ironglass-investments/index.html",
-    "main.674e4df0.css.map": "/ironglass-investments/static/css/main.674e4df0.css.map",
-    "main.cd0ec03b.js.map": "/ironglass-investments/static/js/main.cd0ec03b.js.map",
+    "main.739fbde8.css.map": "/ironglass-investments/static/css/main.739fbde8.css.map",
+    "main.6986bf59.js.map": "/ironglass-investments/static/js/main.6986bf59.js.map",
     "787.2a33bd7e.chunk.js.map": "/ironglass-investments/static/js/787.2a33bd7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.674e4df0.css",
-    "static/js/main.cd0ec03b.js"
+    "static/css/main.739fbde8.css",
+    "static/js/main.6986bf59.js"
   ]
 }
