@@ -5,7 +5,7 @@ import App from './App';
 import '@fontsource/orbitron'
 import reportWebVitals from './reportWebVitals';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
 } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
