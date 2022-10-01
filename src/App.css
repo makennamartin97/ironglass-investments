@@ -319,4 +319,7 @@ li:nth-child(5n+1) {
   .mobile-hide{
     display: none;
   }
+  .glitch {
+    font-size: 1.0rem;
+  }
 }

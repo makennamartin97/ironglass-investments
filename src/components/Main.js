@@ -39,10 +39,10 @@ function Main() {
           <div className='section'>
             {loginpage ? (<Login/>) : (
             <div className='text flex flex-col content-between'>
-              <div className='flex flex-row text-center md:place-content-start min-w-full md:p-9'>
+              <div className='flex flex-row text-center place-content-center lg:place-content-start min-w-full md:p-9'>
                 <p class="glitch"><span aria-hidden="true"></span>BYTE THE GLASS</p>
               </div>
-              <div className='flex flex-row min-w-full text-center md:place-content-end md:p-9'>
+              <div className='flex flex-row min-w-full text-center place-content-center lg:place-content-end md:p-9'>
                 <p className="glitch"><span aria-hidden="true"></span>BUILD THE FUTURE</p>
               </div>
             </div>
