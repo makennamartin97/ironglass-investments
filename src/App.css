@@ -257,8 +257,8 @@ li:nth-child(5n+1) {
 /* dashboard  page styles */
 #chart{
   border-radius: 20px;
-  margin: 50px;
-  padding: 20px;
+  /* margin: 50px;
+  padding: 20px; */
 }
 
 

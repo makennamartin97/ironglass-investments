@@ -416,7 +416,7 @@ class Dash extends React.Component {
     render() {
       return (
             
-          <div id="chart" className='card2'>
+          <div id="chart" className='md:m-50 md:p-20'>
             <div id="chart-timeline" >
               <Chart options={this.state.options} series={this.state.series} type="area" height={350} />
             </div>

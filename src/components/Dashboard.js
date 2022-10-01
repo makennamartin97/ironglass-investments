@@ -185,7 +185,7 @@ function Dashboard(props) {
           <AdminNav/>
           <div className='flex flex-row min-w-full place-content-center'>
             <div className="card block text-white gradient-border">
-              <h3 className='m-5 zz orbitron'>Welcome, {email} </h3>
+              <h4 className='m-3 text-xs orbitron md:text-right'>Welcome, {email} </h4>
               <Dash/>
           </div>
         </div>
