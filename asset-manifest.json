@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/ironglass-investments/static/css/main.da9c5e6f.css",
-    "main.js": "/ironglass-investments/static/js/main.64b0bb61.js",
+    "main.css": "/ironglass-investments/static/css/main.aea6a184.css",
+    "main.js": "/ironglass-investments/static/js/main.6c1d60dc.js",
     "static/js/787.2a33bd7e.chunk.js": "/ironglass-investments/static/js/787.2a33bd7e.chunk.js",
     "static/media/navlogo.png": "/ironglass-investments/static/media/navlogo.25ca2aa2f3a9961dc4ee.png",
     "static/media/navlogo2.png": "/ironglass-investments/static/media/navlogo2.aa6a69f529b8e2e7293c.png",
+    "static/media/gallery4.jpeg": "/ironglass-investments/static/media/gallery4.2251ae1989d811f303fa.jpeg",
     "static/media/igiframe.png": "/ironglass-investments/static/media/igiframe.32fc7dd8ae2ea25e37cc.png",
+    "static/media/gallery3.jpeg": "/ironglass-investments/static/media/gallery3.5a4b0180fa0f8405fc21.jpeg",
+    "static/media/gallery8.jpeg": "/ironglass-investments/static/media/gallery8.99a8e0c5d1e1f7dc2f8f.jpeg",
+    "static/media/revicons.eot": "/ironglass-investments/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ironglass-investments/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/orbitron-all-400-normal.woff": "/ironglass-investments/static/media/orbitron-all-400-normal.ed3b936bb1fb29366ef4.woff",
     "static/media/Robodron.otf": "/ironglass-investments/static/media/Robodron.2f445dd0dccfb699ebfb.otf",
+    "static/media/revicons.woff": "/ironglass-investments/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/orbitron-latin-400-normal.woff2": "/ironglass-investments/static/media/orbitron-latin-400-normal.66d6f5814af1d6cb84b3.woff2",
     "index.html": "/ironglass-investments/index.html",
-    "main.da9c5e6f.css.map": "/ironglass-investments/static/css/main.da9c5e6f.css.map",
-    "main.64b0bb61.js.map": "/ironglass-investments/static/js/main.64b0bb61.js.map",
+    "main.aea6a184.css.map": "/ironglass-investments/static/css/main.aea6a184.css.map",
+    "main.6c1d60dc.js.map": "/ironglass-investments/static/js/main.6c1d60dc.js.map",
     "787.2a33bd7e.chunk.js.map": "/ironglass-investments/static/js/787.2a33bd7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da9c5e6f.css",
-    "static/js/main.64b0bb61.js"
+    "static/css/main.aea6a184.css",
+    "static/js/main.6c1d60dc.js"
   ]
 }
