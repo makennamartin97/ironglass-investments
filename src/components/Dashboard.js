@@ -11,9 +11,6 @@ import hmacSHA512 from 'crypto-js/hmac-sha512';
 import Base64 from 'crypto-js/enc-base64';
 import AdminNav from "./navbars/Nav";
 import Dash from './Dash.js';
-import '../dashboard1/css/layout.css'
-import '../dashboard1/css/cards.css'
-import '../dashboard1/css/apexcharts.css'
 import Chart from "react-apexcharts";
 
 
@@ -182,11 +179,11 @@ function Dashboard(props) {
     return (
       <div className="section"> 
         <Myparticle/>
-          <AdminNav/>
-          <div className='flex flex-row min-w-full place-content-center'>
-            <div className="card block text-white gradient-border">
-              <h4 className='m-3 text-xs orbitron md:text-right'>Welcome, {email} </h4>
-              <Dash/>
+        <AdminNav/>
+        <div className='flex flex-row min-w-full place-content-center mt-10'>
+          <div className="card block text-white gradient-border">
+            <h4 className='m-3 text-xs orbitron md:text-right'>Welcome, {email} </h4>
+            <Dash/>
           </div>
         </div>
       </div>

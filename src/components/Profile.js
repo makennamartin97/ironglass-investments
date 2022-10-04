@@ -119,7 +119,7 @@ function Profile() {
       <div className='section'>
         <Myparticle/>
         <AdminNav/>
-          <div class="text-center h-24 text-3xl lg:text-left header">
+          <div class="text-center h-24 text-xl lg:text-left header p-4 md:p-0">
             <h1 data-aos="fade-right" data-aos-duration="2500" className="lg:ml-20 lg:mt-8 text-[#9ca3af] orbitron underline decoration-[#34b2fd] underline-offset-8">Edit Profile</h1>
           </div>
           <div className='flex place-content-center'>

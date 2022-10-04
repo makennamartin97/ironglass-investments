@@ -15,11 +15,10 @@ function Calendly() {
         <div className='section'>
             <Myparticle/>
             <Nav/>
-            <div class="text-center h-32 lg:h-auto text-3xl lg:text-left header">
-              <h1 data-aos="fade-right" data-aos-duration="2500" className="lg:ml-20 lg:mt-8 text-[#9ca3af] orbitron underline decoration-[#34b2fd] underline-offset-8">Schedule a Meeting</h1>
+            <div class="text-center p-4 md:p-0 mb-12 md:mb-0 md:flex md:h-auto text-xl lg:text-left header">
+              <h1 data-aos="fade-right" data-aos-duration="2500" className="md:ml-10 lg:mt-8 text-[#9ca3af] orbitron underline decoration-[#34b2fd] underline-offset-8">Schedule a complimentary meeting with a financial analyst</h1>
             </div>
-          
-            <InlineWidget url="https://calendly.com/makennamartin97" id='widget'/>
+            <InlineWidget url="https://calendly.com/sam-scott-igi" id='widget' color="#00a2ff"/>
             
         </div>
       );

@@ -1,7 +1,4 @@
 import React from 'react'
-import '../dashboard1/css/layout.css'
-import '../dashboard1/css/cards.css'
-import '../dashboard1/css/apexcharts.css'
 import gsap from 'gsap'
 import Chart from 'react-apexcharts'
 

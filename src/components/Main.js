@@ -40,27 +40,13 @@ function Main() {
             {loginpage ? (<Login/>) : (
             <div className='text flex flex-col content-between'>
               <div className='flex flex-row text-center place-content-center lg:place-content-start min-w-full md:p-9'>
-                <p class="glitch"><span aria-hidden="true"></span>BYTE THE GLASS</p>
+                <p data-aos="fade-right" data-aos-duration="2300" className="glitch"><span aria-hidden="true"></span>BYTE THE GLASS</p>
               </div>
               <div className='flex flex-row min-w-full text-center place-content-center lg:place-content-end md:p-9'>
-                <p className="glitch"><span aria-hidden="true"></span>BUILD THE FUTURE</p>
+                <p data-aos="fade-right" data-aos-delay="350" data-aos-duration="2500" className="glitch"><span aria-hidden="true"></span>BUILD THE FUTURE</p>
               </div>
             </div>
             )} 
-          </div>
-
-          {/* about us page  */}
-          <div className='section' id="about">
-            <div className='ml-9'>
-              <p class="glitch"><span aria-hidden="true"></span>ABOUT US</p>
-            </div>
-          </div>
-          
-          {/* meet the team page  */}
-          <div className='section' id="team">
-            <div className='ml-9'>
-              <p class="glitch"><span aria-hidden="true"></span>Meet the Team</p>
-            </div>
           </div>
           
         </div>
