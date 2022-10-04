@@ -49,52 +49,52 @@ function UpcomingEvents() {
             ))}
             </div> */}
                             
-      <Carousel
-        showDots={true}
-        responsive={responsive}
-        infinite={true}
-        autoPlaySpeed={1000}
-        keyBoardControl={true}
-        customTransition="all .5"
-        transitionDuration={500}
-        containerClass="carousel-container"
-        dotListClass="custom-dot-list-style"
-        className="caro-row pb-8"
-        >
-        <div className="carousel-item col card md:card-side glass ml-4">
-            <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
-            <div className="card-body p-4">
-                <h2 className="card-title">New Event 1</h2>
-                <p>Description</p>
-                <p>Date</p>
-                <div className="card-actions justify-end">
-                    <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
-                </div>
-            </div>
-        </div>
-        <div className="carousel-item col card md:card-side glass ml-4">
-            <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
-            <div className="card-body p-4">
-                <h2 className="card-title">New Event 2</h2>
-                <p>Description</p>
-                <p>Date</p>
-                <div className="card-actions justify-end">
-                <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
-                </div>
-            </div>
-        </div>
-        <div className="carousel-item col card md:card-side glass ml-4">
-            <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
-            <div className="card-body p-4">
-                <h2 className="card-title">New Event 3</h2>
-                <p>Description</p>
-                <p>Date</p>
-                <div className="card-actions justify-end">
-                <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
-                </div>
-            </div>
-        </div>
-        </Carousel>
+            <Carousel
+                showDots={true}
+                responsive={responsive}
+                infinite={true}
+                autoPlaySpeed={1000}
+                keyBoardControl={true}
+                customTransition="all .5"
+                transitionDuration={500}
+                containerClass="carousel-container"
+                dotListClass="custom-dot-list-style"
+                className="caro-row pb-8"
+                >
+                    <div className="carousel-item col card md:card-side glass ml-4">
+                        <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
+                        <div className="card-body p-4">
+                            <h2 className="card-title">New Event 1</h2>
+                            <p>Description</p>
+                            <p>Date</p>
+                            <div className="card-actions justify-end">
+                                <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="carousel-item col card md:card-side glass ml-4">
+                        <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
+                        <div className="card-body p-4">
+                            <h2 className="card-title">New Event 2</h2>
+                            <p>Description</p>
+                            <p>Date</p>
+                            <div className="card-actions justify-end">
+                            <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="carousel-item col card md:card-side glass ml-4">
+                        <figure className="frame max-height-96"><img src='https://img.icons8.com/material-outlined/96/000000/ghost.png' alt="..."/></figure>
+                        <div className="card-body p-4">
+                            <h2 className="card-title">New Event 3</h2>
+                            <p>Description</p>
+                            <p>Date</p>
+                            <div className="card-actions justify-end">
+                            <a href="https://www.eventbrite.com/e/test-igi-event-tickets-407620763677"><button className="btn">RSVP</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </Carousel>
 
         </div>
 
